@@ -4,15 +4,11 @@ This is a **work in progress** web-based e-commerce platform for cars, built usi
 
 ---
 
-## 📸 Screenshots
-
-### 🚗 Car Detail Page
-
 ![Car Detail Page](/public/UI-ShowCase.png)
 
 ---
 
-🧪 Tech Stack
+## 🧪 Tech Stack
 
 - React + Vite – UI development
 - Mirage JS – Mock API server
