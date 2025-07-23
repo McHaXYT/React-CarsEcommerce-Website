@@ -8,7 +8,7 @@ This is a **work in progress** web-based e-commerce platform for cars, built usi
 
 ---
 
-## 🧪 Tech Stack
+### 🧪 Tech Stack
 
 - React + Vite – UI development
 - Mirage JS – Mock API server
@@ -16,7 +16,7 @@ This is a **work in progress** web-based e-commerce platform for cars, built usi
 
 ---
 
-## 📌 Version
+### 📌 Version
 
 **v0.1.0** — Initial upload  
 📅 **Date:** July 23, 2025  
@@ -24,7 +24,7 @@ This is a **work in progress** web-based e-commerce platform for cars, built usi
 
 ---
 
-## 🚀 Getting Started
+### 🚀 Getting Started
 
 ### Prerequisites
 
