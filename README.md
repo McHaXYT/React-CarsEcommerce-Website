@@ -1,18 +1,14 @@
-E-Commerce Car Web Project 🚗🛒
-
+# E-Commerce Car Web Project 🚗🛒
 
 This is a **work in progress** web-based e-commerce platform for cars, built using **React + Vite** and **Mirage JS** for mocking backend APIs during development with Vanilla JS and CSS.
 
-
 ---
 
-
-📸 Screenshots
+## 📸 Screenshots
 
 ### 🚗 Car Detail Page
 
 ![Car Detail Page](/UI-ShowCase.png)
-
 
 ---
 
@@ -24,7 +20,7 @@ This is a **work in progress** web-based e-commerce platform for cars, built usi
 
 ---
 
-📌 Version
+## 📌 Version
 
 **v0.1.0** — Initial upload  
 📅 **Date:** July 23, 2025  
@@ -32,7 +28,7 @@ This is a **work in progress** web-based e-commerce platform for cars, built usi
 
 ---
 
-🚀 Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -46,4 +42,3 @@ Make sure you have the following installed:
 ```bash
 npm install
 npm run dev
-
