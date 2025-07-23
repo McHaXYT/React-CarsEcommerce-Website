@@ -1,14 +1,18 @@
 # E-Commerce Car Web Project 🚗🛒
 
+
 This is a **work in progress** web-based e-commerce platform for cars, built using **React + Vite** and **Mirage JS** for mocking backend APIs during development with Vanilla JS and CSS.
 
+
 ---
+
 
 ## 📸 Screenshots
 
 ### 🚗 Car Detail Page
 
 ![Car Detail Page](/UI-ShowCase.png)
+
 
 ---
 
