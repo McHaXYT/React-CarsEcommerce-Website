@@ -8,7 +8,7 @@ This is a **work in progress** web-based e-commerce platform for cars, built usi
 
 ### 🚗 Car Detail Page
 
-![Car Detail Page](/UI-ShowCase.png)
+![Car Detail Page](UI-ShowCase.png)
 
 ---
 
