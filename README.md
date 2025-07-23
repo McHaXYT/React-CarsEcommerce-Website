@@ -1,12 +1,45 @@
-# React + Vite
+# E-Commerce Car Web Project 🚗🛒
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **work in progress** web-based e-commerce platform for cars, built using **React + Vite** and **Mirage JS** for mocking backend APIs during development with Vanilla JS and CSS.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Screenshots
 
-## Expanding the ESLint configuration
+### 🚗 Car Detail Page
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Car Detail Page](/UI-ShowCase.png)
+
+---
+
+🧪 Tech Stack
+
+- React + Vite – UI development
+- Mirage JS – Mock API server
+- Vanilla JavaScript and CSS
+
+---
+
+## 📌 Version
+
+**v0.1.0** — Initial upload  
+📅 **Date:** July 23, 2025  
+🛠️ Status: Work in Progress
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (v16 or above recommended)
+- npm (comes with Node.js)
+
+### Installation
+
+```bash
+npm install
+npm run dev
+
